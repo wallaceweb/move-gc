@@ -7,10 +7,11 @@ INFO-
 This repo has 2 files, the original move-gc.py file and an executable file that should work without needing to install Python3
 This program creates a /games directory, then renames the .iso OR .ciso files as game.iso or game.ciso respectively. I could've done a bit more work and just learned how to copy the files and then rename, but got a bit stuck. If anyone has tips let me know!
 
-**WARNING - PLEASE MANUALLY BACK UP GAMES FIRST
-AND ISOLATE THE PROGRAM FROM ALL OTHER FILES/FOLDERS OTHER THAN GC ISO AND CISO FILES
-THIS PROGRAM RENAMES AND MOVES FILES MANUALLY WITHOUT COPYING
-IF YOU HAVE ANY NON GC ISO OR CISO FILES, THEY WILL ALSO BE MOVED**
+**WARNING - PLEASE MANUALLY BACK UP GAMES FIRST AND ISOLATE THE PROGRAM FROM ALL OTHER FILES/FOLDERS OTHER THAN GC ISO AND CISO FILES
+
+**THIS PROGRAM RENAMES AND MOVES FILES MANUALLY WITHOUT COPYING
+
+**IF YOU HAVE ANY NON GC ISO OR CISO FILES, THEY WILL ALSO BE MOVED
 
 Usage-
 
