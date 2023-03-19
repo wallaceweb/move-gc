@@ -21,16 +21,19 @@ Executable:
 4. Change your directory to the new folder
   If you need help doing this, might need to look up a tutorial
 5. Run the program by typing the program's name
+
   Windows:
     move-gc
   Linux:
     sudo chmod +x move-gc
     ./move-gc
+
 6. Follow the steps listed on screen
     
 Python file:
 1. Install python3
 2. Follow above listed steps, except when getting to running the program, type
+
   Windows:
     python move-gc.py
   Linux:
