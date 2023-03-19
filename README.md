@@ -1,7 +1,6 @@
 # move-gc
 Move gamecube iso and ciso files to be in Nintendont configuration using python3
 
-**Nintendont has issues with some ciso files. This program will not fix/reconfigure files in a way that will make non-working ciso files work with Nintendont. I merely added ciso functionality to the program as I have seen others online mention they were able to get ciso files to work properly**
 
 INFO-
 This repo has 2 files, the original move-gc.py file and an executable file that should work without needing to install Python3
@@ -44,5 +43,7 @@ Python file:
 
 3. Follow listed steps
 
+
+**Nintendont has issues with some ciso files. This program will not fix/reconfigure files in a way that will make non-working ciso files work with Nintendont. I merely added ciso functionality to the program as I have seen others online mention they were able to get ciso files to work properly**
 
 Sorry if everything is a bit of a mess! Pretty new to programming but was excited to share this utility that I made. I'll try to help if anyone needs it!
