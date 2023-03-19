@@ -24,6 +24,7 @@ Executable:
 
   Windows:
     move-gc
+
   Linux:
     sudo chmod +x move-gc
     ./move-gc
@@ -36,8 +37,10 @@ Python file:
 
   Windows:
     python move-gc.py
+
   Linux:
     python3 move-gc.py
+
 3. Follow listed steps
 
 
